@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanta.Core", "Quanta.Core\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanta.Sandbox", "Quanta.Sandbox\Quanta.Sandbox.csproj", "{38ACFC70-D0F2-4469-A6DB-DBC64070A58B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanta.Tests", "Quanta.Tests\Quanta.Tests.csproj", "{60D54FCF-1DAB-44D3-B641-FBB96F1F3402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38ACFC70-D0F2-4469-A6DB-DBC64070A58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38ACFC70-D0F2-4469-A6DB-DBC64070A58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38ACFC70-D0F2-4469-A6DB-DBC64070A58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D54FCF-1DAB-44D3-B641-FBB96F1F3402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D54FCF-1DAB-44D3-B641-FBB96F1F3402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D54FCF-1DAB-44D3-B641-FBB96F1F3402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D54FCF-1DAB-44D3-B641-FBB96F1F3402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
